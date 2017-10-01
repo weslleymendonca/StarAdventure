@@ -1,0 +1,10 @@
+#Wed Aug 09 10:54:48 BRT 2017
+renamed.2=classes3.dex
+renamed.1=classes.dex
+renamed.0=classes2.dex
+base.2=/Users/usuario/Documents/androidstudioprojects/starAdventure/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-box2d-1.9.6_8c12373c28295379f78d1a4d77ec680d8ef19967
+base.1=/Users/usuario/Documents/androidstudioprojects/starAdventure/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.9.6_288f7e16099ed52194939867fec12e1bc06835e6
+base.0=/Users/usuario/Documents/androidstudioprojects/starAdventure/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.9.6_1d3b866ab195b21e9e963d9d20738228bd2e694e
+file.2=/Users/usuario/Documents/androidstudioprojects/starAdventure/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-box2d-1.9.6_8c12373c28295379f78d1a4d77ec680d8ef19967/classes.dex
+file.1=/Users/usuario/Documents/androidstudioprojects/starAdventure/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.9.6_288f7e16099ed52194939867fec12e1bc06835e6/classes.dex
+file.0=/Users/usuario/Documents/androidstudioprojects/starAdventure/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.9.6_1d3b866ab195b21e9e963d9d20738228bd2e694e/classes.dex

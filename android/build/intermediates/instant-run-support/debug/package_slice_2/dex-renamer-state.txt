@@ -1,0 +1,4 @@
+#Wed Aug 09 10:54:48 BRT 2017
+base.0=/Users/usuario/Documents/androidstudioprojects/starAdventure/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/usuario/Documents/androidstudioprojects/starAdventure/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex
